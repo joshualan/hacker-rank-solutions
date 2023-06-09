@@ -51,3 +51,5 @@ function arrayManipulation(n: number, queries: number[][]): number {
     return largestNum;
 }
 ```
+
+[Link to submission](https://www.hackerrank.com/challenges/crush/submissions/code/330893734)
