@@ -47,3 +47,5 @@ function freqQuery(queries) {
     return resultsArray;
 }
 ```
+
+[Link to submission](https://www.hackerrank.com/challenges/frequency-queries/submissions/code/330907630)
